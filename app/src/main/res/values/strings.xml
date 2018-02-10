@@ -4,5 +4,22 @@
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
+    <string name="nav_drawer_new_or_existing_user">New or Existing User</string>
+    <string name="register">Register Me</string>
+    <string name="login">Login</string>
+    <string name="search">Search</string>
+    <string name="discover">Discover</string>
+    <string name="about">About</string>
+
+    <string name="pop_rest">Popular Restaurants</string>
+    <string name="new_rest">New Restaurants</string>
+    <string name="near_me_rest">Restaurants Near Me</string>
+
     <string name="action_settings">Settings</string>
+
+    <string name="user_name">John Smith</string>
+    <string name="user_email">john_smith@gmail.com</string>
+
+
+
 </resources>
